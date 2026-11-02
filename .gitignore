@@ -1,0 +1,83 @@
+# Ignore build artifacts
+*.luac
+
+# Ignore Roblox ServerScriptService
+ServerScriptService/
+
+# Ignore Roblox ReplicatedStorage
+ReplicatedStorage/
+
+# Ignore Roblox StarterPlayerScripts
+StarterPlayerScripts/
+
+# Ignore Roblox StarterCharacterScripts
+StarterCharacterScripts/
+
+# Ignore Roblox StarterPlayer
+StarterPlayer/
+
+# Ignore Roblox StarterGui
+StarterGui/
+
+# Ignore Roblox StarterPack
+StarterPack/
+
+# Ignore Roblox Workspace
+Workspace/
+
+# Ignore Roblox Tool
+Tool/
+
+# Ignore Roblox ScreenGui
+ScreenGui/
+
+# Ignore Roblox LocalScript
+LocalScript/
+
+# Ignore Roblox ModuleScript
+ModuleScript/
+
+# Ignore Roblox RemoteEvent
+RemoteEvent/
+
+# Ignore Roblox RemoteFunction
+RemoteFunction/
+
+# Ignore Roblox LocalScriptService
+LocalScriptService/
+
+# Ignore Roblox Players
+Players/
+
+# Ignore Roblox ReplicatedStorage
+ReplicatedStorage/
+
+# Ignore Roblox StarterGui
+StarterGui/
+
+# Ignore Roblox StarterPack
+StarterPack/
+
+# Ignore Roblox Workspace
+Workspace/
+
+# Ignore Roblox Tool
+Tool/
+
+# Ignore Roblox ScreenGui
+ScreenGui/
+
+# Ignore Roblox LocalScript
+LocalScript/
+
+# Ignore Roblox ModuleScript
+ModuleScript/
+
+# Ignore Roblox RemoteEvent
+RemoteEvent/
+
+# Ignore Roblox RemoteFunction
+RemoteFunction/
+
+# Ignore Roblox LocalScriptService
+LocalScriptService/
